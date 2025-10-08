@@ -1,0 +1,5 @@
+{
+  "name": "PokeWar",
+  "description": "Um jogo de batalha de cartas estratégico com tema Pokémon. Insira seu nome, compre uma mão de cartas e escolha a melhor para jogar em cada rodada com efeitos sonoros. Supere a IA usando poder de ataque e vantagens de tipo. O primeiro a 10 pontos vence!",
+  "requestFramePermissions": []
+}
